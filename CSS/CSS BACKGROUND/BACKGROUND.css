@@ -1,4 +1,24 @@
-CSS Background ( ផ្ទៃខាងក្រោយ css )
+១. CSS Background ( ផ្ទៃខាងក្រោយ css )
   លក្ខណៈសម្បត្តិ background CSS ត្រូវបានប្រើដើម្បីបន្ថែមបែបផែនផ្ទៃខាងក្រោយសម្រាប់ធាតុ ។
 Background property នៅក្នុង css មានច្រើន property ដែលគេនិយមប្រើមាន ៥ គឺ ៖ 
-. background-color :
+. background-color      : ប្រើសម្រាប់កំណត់ផ្ទៃខាងក្រោយជាពណ៍ ។
+. background-image      : ប្រើសម្រាប់កំណត់ផ្ទៃខាងក្រោយជារូបភាព ។
+. background-repeat     : ប្រើសម្រាប់កែតម្រូវភាពច្រំដែររបស់ផ្ទៃខាងក្រោយ ។
+. background-attachment : ប្រើសម្រាប់កំណត់ភាពជាប់របស់រូបភាពនៃផ្ទៃខាងក្រោយនៅពេលដែលរំកិល Web page ។
+. background-position   : ប្រើសម្រាប់កំណត់ទីតាំងនៃផ្ទៃខាងក្រោយ ។
+ក. សិក្សាអំពី background នីមួយៗដូចខាងក្រោម ៖ 
+  ១. background-color: 
+     ប្រើសម្រាប់កំណត់ផ្ទៃខាងក្រោយជាពណ៍ ។
+  នៅក្នុង background-color property មាន value ពីរដែរយើងអាច set បាន ៖
+  - ពណ៍ (color)
+  - ភាពទទេឬភាពថ្លា (transparent)
+  ២. background-image: 
+     ប្រើសម្រាប់កំណត់ផ្ទៃខាងក្រោយជារូបភាព ។ 
+  នៅក្នុង background-image property មាន value ពីរដែរយើងអាច set បាន ៖
+  url: ជា function សម្រាប់កំណត់ URL នៃរូបភាព ។
+
+ឧទាហរណ៍ ៖
+body {
+  background-image: url("bgdesert.jpg");
+}
+     
