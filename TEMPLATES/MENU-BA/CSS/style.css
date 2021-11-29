@@ -1,1 +1,43 @@
-
+body{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+.menu-ba{
+    text-align: left;
+}
+.menu-ba ul{
+    display: inline-flex;
+    list-style-type: none;
+}
+.menu-ba ul li{
+    margin: 25px;
+    position: relative;
+}
+.menu-ba ul li a{
+    padding: 2px;
+    color: yellow;
+    border-bottom: 2px solid whitesmoke;
+    font-size: 30px;
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 8px;
+    position: relative;
+}
+.menu-ba ul li a:hover{
+    color:#fff;
+    transition: 0.3s;
+}
+.search {
+    top: 24px;
+    right: 20px;
+    position: absolute;
+    border: 2px solid yellow;
+}
+.search input {
+    font-size: 25px;
+    border: 1px solid #fff;
+    margin: 8px;
+    padding: 8px;
+    border-radius: 10px;
+}
