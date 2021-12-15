@@ -1,1 +1,14 @@
-
+១. Text Transformation 
+    ដើម្បីបំលែងអត្ថបទបានគឺត្រូវប្រើនូវ text-transform property ។ 
+    property នេះមានតម្លៃចំនួន ៤ ដែលយើងអាចកំណត់ ៖
+    
+    - none       : មិនបានបំលែង ។
+    - uppercase  : បំលែងទៅអក្សរធំទាំងអស់ ។
+    -lowercase   : បំលែងទៅអក្សរតូចទាំងអស់ ។
+    -capitalize  : បំលែងអក្សរនៅខាងដើមឲ្យធំទាំងអស់ហើយក្រៅពីនេះគឺធម្មតា ។
+ឧទាហរណ៍ ៖ 
+    1. welcome to chea na.
+    2. WELCOME TO CHEA NA.
+    3. welcome to chea na.
+    4. Welcome to chea na. 
+    
