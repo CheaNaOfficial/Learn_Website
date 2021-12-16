@@ -1,5 +1,6 @@
 ####ស្វែងយល់អំពី #Frontend និង #Backend Web developments ។ 
       + #Frontend វាជាផ្នែកមួយរបស់ Website ដែលជាចំនុចប្រទាក់មួយសំខាន់លើផ្តោតលើអ្នកប្រើប្រាស់ ឬ Visitor ឬ ហៅមួយបែបទៀតថា Client side។ អ្នកប្រាកដជាដឹងហើយថាផ្នែកខាង visitor គឺផ្តោតលើតែរូបភាព ឬ រូបរាងដែលទាក់ទាញអ្នកមើលទៅលើ text colors , styles, images, graphs , tables, buttons, colors, និងពពួក navigation menu ជាដើម។ 
+      
            ខាងក្រោមជាប្រភេទភាសារសំរាប់ការកសាងនូវ client side:
                    #HTML: ឈរលើពាក្យថា Hypertext Markup Language ប្រើសំរាប់ design the front-end នៃ web pages ដោយប្រើប្រាស់នូវ markup language ដែល HTML វាបានបញ្ចូលគ្នារវាង Hypertext និង Markup language សំរាប់បង្កើតនូវរូបរាង្គរបស់ Website ដូចជា Text, Image, Table, Link, Video, Sound, Table, Frame, Web form -ល-។
                  #CSS:  ឈរលើពាក្យថា Cascading Style Sheets ដែលវាសំរាប់អោយតុបតែង Website អោយមានភាពស្រល់ស្អាត និងទាក់ទាញ គួរជាទីចាប់អារម្មណ៏ពីអ្នកមើល ឬ User។ 
@@ -18,5 +19,3 @@
           ចំណែកពពួក Framework ដែលត្រូវប្រើប្រាស់មានច្រើនដែលដូចជា៖ 
            Express, Django, Rails, Laravel, Spring -ល- ចំណែកពពួកខាង
  back-end program/scripting languages មានដូចជា C#, VB.Net,  Ruby, REST, GO -ល- ។
-ពី, 
-គ្រូអាយធីចិត្តល្អ
