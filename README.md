@@ -1,6 +1,8 @@
 ####ស្វែងយល់អំពី 
-#Frontend និង #Backend Web developments ។ 
-      #Frontend វាជាផ្នែកមួយរបស់ Website ដែលជាចំនុចប្រទាក់មួយសំខាន់លើផ្តោតលើអ្នកប្រើប្រាស់ ឬ Visitor ឬ ហៅមួយបែបទៀតថា Client side។ 
+
+Frontend និង Backend Web developments ។ 
+
+ #Frontend វាជាផ្នែកមួយរបស់ Website ដែលជាចំនុចប្រទាក់មួយសំខាន់លើផ្តោតលើអ្នកប្រើប្រាស់ ឬ Visitor ឬ ហៅមួយបែបទៀតថា Client side។ 
       អ្នកប្រាកដជាដឹងហើយថាផ្នែកខាង visitor គឺផ្តោតលើតែរូបភាព ឬ រូបរាងដែលទាក់ទាញអ្នកមើលទៅលើ text colors , styles, images, graphs , tables, buttons, colors, និងពពួក navigation menu ជាដើម។ 
       
 #ខាងក្រោមជាប្រភេទភាសារសំរាប់ការកសាងនូវ client side:
